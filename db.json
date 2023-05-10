@@ -1,0 +1,244 @@
+{
+  "mebel": [
+    {
+      "id": 1,
+      "name": "Ergonomic Chair",
+      "price": 199.99,
+      "description": "This chair is designed to provide maximum comfort and support while you work.",
+      "image": "https://fake-furniture.com/images/ergonomic-chair.jpg",
+      "category": "chair"
+    },
+    {
+      "id": 2,
+      "name": "L-shaped Sofa",
+      "price": 799.99,
+      "description": "This sofa provides ample seating for you and your guests, and the L-shape is perfect for maximizing space.",
+      "image": "https://fake-furniture.com/images/l-shaped-sofa.jpg",
+      "category": "sofa"
+    },
+    {
+      "id": 3,
+      "name": "Glass-top Dining Table",
+      "price": 399.99,
+      "description": "This table features a sleek glass top that is easy to clean and complements any dining room decor.",
+      "image": "https://fake-furniture.com/images/glass-top-dining-table.jpg",
+      "category": "table"
+    },
+    {
+      "id": 4,
+      "name": "Queen-size Bed",
+      "price": 699.99,
+      "description": "This bed is the perfect size for a couple or anyone who wants a little extra room to stretch out.",
+      "image": "https://fake-furniture.com/images/queen-size-bed.jpg",
+      "category": "bed"
+    },
+    {
+      "id": 5,
+      "name": "Wooden Wardrobe",
+      "price": 599.99,
+      "description": "This wardrobe is made of high-quality wood and features plenty of storage space for all your clothes and accessories.",
+      "image": "https://fake-furniture.com/images/wooden-wardrobe.jpg",
+      "category": "wardrobe"
+    },
+    {
+      "id": 6,
+      "name": "Metal Almirah",
+      "price": 349.99,
+      "description": "This almirah is made of durable metal and features several shelves and drawers for organizing your belongings.",
+      "image": "https://fake-furniture.com/images/metal-almirah.jpg",
+      "category": "almirah"
+    },
+    {
+      "id": 7,
+      "name": "Round Dimple Chair",
+      "price": 149.99,
+      "description": "This chair features a unique dimple design that provides extra comfort and support for your back.",
+      "image": "https://fake-furniture.com/images/round-dimple-chair.jpg",
+      "category": "dimple"
+    },
+    {
+      "id": 8,
+      "name": "Wooden Book Rack",
+      "price": 99.99,
+      "description": "This book rack is made of sturdy wood and provides ample storage space for your favorite books and magazines.",
+      "image": "https://fake-furniture.com/images/wooden-book-rack.jpg",
+      "category": "rack"
+    },
+    {
+      "id": 9,
+      "name": "TV Stand with Storage",
+      "price": 249.99,
+      "description": "This TV stand features several shelves and drawers for storing your media devices, cables, and accessories.",
+      "image": "https://fake-furniture.com/images/tv-stand-with-storage.jpg",
+      "category": "stand"
+    },
+    {
+      "id": 10,
+      "name": "Leather Recliner",
+      "price": 499.99,
+      "description": "This recliner is made of high-quality leather and features a built-in footrest for maximum relaxation.",
+      "image": "https://fake-furniture.com/images/leatherrecliner.jpg",
+      "category": "chair"
+    },
+    {
+      "id": 11,
+      "name": "Sectional Sofa",
+      "price": 1299.99,
+      "description": "This sectional sofa provides plenty of seating for your family and friends, and the chaise lounge is perfect for lounging and watching TV.",
+      "image": "https://fake-furniture.com/images/sectional-sofa.jpg",
+      "category": "sofa"
+    },
+    {
+      "id": 12,
+      "name": "Glass Coffee Table",
+      "price": 199.99,
+      "description": "This coffee table features a beautiful glass top and a sturdy metal frame for a modern look.",
+      "image": "https://fake-furniture.com/images/glass-coffee-table.jpg",
+      "category": "table"
+    },
+    {
+      "id": 13,
+      "name": "King-size Bed",
+      "price": 899.99,
+      "description": "This bed is perfect for anyone who wants plenty of space to stretch out and get a good night's sleep.",
+      "image": "https://fake-furniture.com/images/king-size-bed.jpg",
+      "category": "bed"
+    },
+    {
+      "id": 14,
+      "name": "White Dresser",
+      "price": 399.99,
+      "description": "This dresser is made of solid wood and features several drawers for storing your clothes and accessories.",
+      "image": "https://fake-furniture.com/images/white-dresser.jpg",
+      "category": "wardrobe"
+    },
+    {
+      "id": 15,
+      "name": "Metal Shoe Rack",
+      "price": 79.99,
+      "description": "This shoe rack is made of sturdy metal and features several shelves for organizing your shoes.",
+      "image": "https://fake-furniture.com/images/metal-shoe-rack.jpg",
+      "category": "rack"
+    },
+    {
+      "id": 16,
+      "name": "Corner Bookshelf",
+      "price": 149.99,
+      "description": "This corner bookshelf is perfect for maximizing space in your home and features several shelves for your favorite books and decor.",
+      "image": "https://fake-furniture.com/images/corner-bookshelf.jpg",
+      "category": "rack"
+    },
+    {
+      "id": 17,
+      "name": "Wooden Computer Desk",
+      "price": 299.99,
+      "description": "This desk is made of high-quality wood and features several drawers and shelves for organizing your computer and accessories.",
+      "image": "https://fake-furniture.com/images/wooden-computer-desk.jpg",
+      "category": "table"
+    },
+    {
+      "id": 18,
+      "name": "Leather Loveseat",
+      "price": 699.99,
+      "description": "This loveseat is made of high-quality leather and is perfect for small spaces or as an accent piece in your living room.",
+      "image": "https://fake-furniture.com/images/leather-loveseat.jpg",
+      "category": "sofa"
+    },
+    {
+      "id": 19,
+      "name": "Single Bed with Storage",
+      "price": 499.99,
+      "description": "This single bed features several drawers and shelves for storing your clothes and accessories, making it perfect for small bedrooms.",
+      "image": "https://fake-furniture.com/images/single-bed-with-storage.jpg",
+      "category": "bed"
+    },
+    {
+      "id": 20,
+      "name": "Metal Wardrobe",
+      "price": 299.99,
+      "description": "This wardrobe is made of durable metal and features several shelves and drawers for organizing your clothes and accessories.",
+      "image": "https://fake-furniture.com/images/metal-wardrobe.jpg",
+      "category": "wardrobe"
+    },
+    {
+      "id": 21,
+      "name": "Adjustable Standing Desk",
+      "price": 499.99,
+      "description": "This standing desk features an adjustable height and is perfect for anyone who wants to work while standing.",
+      "image": "https://fake-furniture.com/images/adjustable-standing-desk.jpg",
+      "category": "table"
+    },
+    {
+      "id": 22,
+      "name": "Upholstered Accent Chair",
+      "price": 299.99,
+      "description": "This accent chair features comfortable upholstery and a stylish design that will add a touch of elegance to any room.",
+      "image": "https://fake-furniture.com/images/upholstered-accent-chair.jpg",
+      "category": "chair"
+    },
+    {
+      "id": 23,
+      "name": "Glass Display Cabinet",
+      "price": 599.99,
+      "description": "This display cabinet is perfect for showing off your favorite collectibles and features a beautiful glass front and several shelves.",
+      "image": "https://fake-furniture.com/images/glass-display-cabinet.jpg",
+      "category": "stand"
+    },
+    {
+      "id": 24,
+      "name": "L-shaped Desk",
+      "price": 399.99,
+      "description": "This L-shaped desk is perfect for maximizing space in your home office and features several drawers and shelves for organizing your computer and accessories.",
+      "image": "https://fake-furniture.com/images/l-shaped-desk.jpg",
+      "category": "table"
+    },
+    {
+      "id": 25,
+      "name": "Fabric Dining Chair",
+      "price": 99.99,
+      "description": "These dining chairs are made of comfortable fabric and are perfect for family dinners and entertaining guests.",
+      "image": "https://fake-furniture.com/images/fabric-dining-chair.jpg",
+      "category": "chair"
+    },
+    {
+      "id": 26,
+      "name": "Wooden Wardrobe with Mirror",
+      "price": 799.99,
+      "description": "This wardrobe is made of high-quality wood and features a full-length mirror and several drawers and shelves for organizing your clothes and accessories.",
+      "image": "https://fake-furniture.com/images/wooden-wardrobe-with-mirror.jpg",
+      "category": "wardrobe"
+    },
+    {
+      "id": 27,
+      "name": "Foldable Bookshelf",
+      "price": 149.99,
+      "description": "This bookshelf is perfect for small spaces and can be easily folded and stored when not in use.",
+      "image": "https://fake-furniture.com/images/foldable-bookshelf.jpg",
+      "category": "rack"
+    },
+    {
+      "id": 28,
+      "name": "Leather Reclining Sofa",
+      "price": 1199.99,
+      "description": "This leather sofa features reclining seats and is perfect for relaxing and watching TV.",
+      "image": "https://fake-furniture.com/images/leather-reclining-sofa.jpg",
+      "category": "sofa"
+    },
+    {
+      "id": 29,
+      "name": "Metal Storage Cabinet",
+      "price": 249.99,
+      "description": "This storage cabinet is made of durable metal and features several shelves and drawers for organizing your tools and supplies.",
+      "image": "https://fake-furniture.com/images/metal-storage-cabinet.jpg",
+      "category": "stand"
+    },
+    {
+      "id": 30,
+      "name": "Round Dining Table",
+      "price": 399.99,
+      "description": "This dining table features a beautiful round top and a sturdy metal base for a modern look.",
+      "image": "https://fake-furniture.com/images/round-dining-table.jpg",
+      "category": "table"
+    }
+  ]
+}
